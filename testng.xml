@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <test verbose="2" preserve-order="true" name="E:/testDemo/auto_test/20250310_Demo/src/test/java/ui/MainTest.java">
+        <classes>
+            <class name="ui.MainTest">
+                <methods>
+                    <include name="gotoMain"/>
+                    <include name="isOpenDrawer"/>
+                    <include name="gotoSearch"/>
+                    <include name="gotoLoginPage"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+
+    <test verbose="2" preserve-order="true" name="E:/testDemo/auto_test/20250310_Demo/src/test/java/ui/LoginTest.java">
+        <classes>
+            <class name="ui.LoginTest">
+                <methods>
+                    <include name="testLogin"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+
+    <test verbose="2" preserve-order="true" name="E:/testDemo/auto_test/20250310_Demo/src/test/java/api/GetApiTest.java">
+        <classes>
+            <class name="api.GetApiTest">
+            </class>
+        </classes>
+    </test>
+    <test verbose="2" preserve-order="true" name="E:/testDemo/auto_test/20250310_Demo/src/test/java/api/PostApiTest.java">
+        <classes>
+            <class name="api.PostApiTest">
+
+            </class>
+        </classes>
+    </test>
+
+</suite>

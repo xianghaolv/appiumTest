@@ -1,0 +1,6 @@
+urlKey,expectedKey,expectedValue
+articleList,errorCode,0
+banner,errorCode, <0>
+friend,errorCode, <0>
+hotkey,errorCode, <0>
+articleTop,errorCode, <0>

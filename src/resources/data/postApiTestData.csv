@@ -1,0 +1,3 @@
+urlKey,requestBody,expectedKey,expectedValue
+userLogin,{"username":"18124618826","password":"lv961215"},errorCode,0
+userRegister,{"username":"13871307444","password":"13871307441","repassword":"13871307441"},errorCode,0
