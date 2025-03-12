@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
 <suite name="All Test Suite">
-    <test verbose="2" preserve-order="true" name="E:/testDemo/auto_test/20250310_Demo/src/test/java/ui/MainTest.java">
+    <test verbose="2" preserve-order="true" name="E:/testDemo/auto_test/20250310_Demo/src/test/java/ui/ui.MainTest.java">
         <classes>
             <class name="ui.MainTest">
                 <methods>

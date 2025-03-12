@@ -1,15 +1,11 @@
 package ui;
 
 import com.lxh.pages.*;
-import com.lxh.utils.LoggerUtils;
 import io.qameta.allure.Severity;
 import io.qameta.allure.SeverityLevel;
 import jdk.jfr.Description;
 import org.testng.Assert;
 import org.testng.annotations.Test;
-
-import java.awt.*;
-import java.util.concurrent.TimeUnit;
 
 public class MainTest extends BaseTest {
 
